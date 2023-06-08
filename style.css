@@ -1,0 +1,29 @@
+/* //boilerplate css */
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+/* selct all elements and sudo */
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: #fff;
+}
+#map {
+  height: 60vh;
+}
+/* font-family: 'TR2N', sans-serif; */
+
+h1 {
+  font-family: "TR2N", sans-serif;
+}
+.gm-style-iw-d {
+  color: black;
+}
